@@ -1,0 +1,4 @@
+myvar = 10 #valid Var
+Myvar = 10 #valid Var
+myvar1 = 10 #valid Var
+my_var = 10 # valid Var
